@@ -1,2 +1,2 @@
 # pca
-PCA analysis of teapot diagrams.
+Principle Component Analysis of teapot diagrams.
